@@ -8,3 +8,4 @@ sphinx_copybutton>=0.3.3
 sphinxext-opengraph>=0.7.1
 sphinxext-rediraffe
 Sphinx~=7.2.6
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
